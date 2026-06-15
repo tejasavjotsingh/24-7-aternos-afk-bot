@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "Tejas_Empire.aternos.me:15189",
+    "port": 15189,
     "version": "1.20.1",
     "try-creative": false
   },
